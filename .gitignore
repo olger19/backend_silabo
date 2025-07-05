@@ -1,0 +1,19 @@
+# entornos
+env/
+.venv/
+
+# base de datos local
+db.sqlite3
+
+# configuración sensible
+.env
+
+# archivos de Python compilados
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# staticfiles (opcional: puedes ignorarlos si usas collectstatic en Railway)
+# staticfiles/
